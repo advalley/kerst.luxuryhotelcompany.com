@@ -1,36 +1,55 @@
+---
 - title: Bilderberg Parkhotel
   location: Rotterdam
   tagline: KERSTSHOPPEN IN ROTTERDAM
   image: "/forestryio/images/1BilderbergParkhotel.jpg"
-  points: [Overnacht in een luxe Torenkamer, Bezoek de Markthal, Shop in de Witte de Withstraat]
+  points:
+  - Overnacht in een luxe Torenkamer
+  - Bezoek de Markthal
+  - Shop in de Witte de Withstraat
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=453&country=1&la=2&autoLogin=true&actie=
 - title: Hampshire hotel
   location: Leiden
   tagline: CITY EN WELLNESS
   image: "/forestryio/images/2HampshireLeiden.jpg"
-  points: [Dineer tijdens Kerst, Relax in de wellness, Bezoek de kerstmarkt]
+  points:
+  - Dineer tijdens Kerst
+  - Relax in de wellness
+  - Bezoek de kerstmarkt
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=398&country=1&la=2&autoLogin=true&actie=
 - title: Court hotel City Centre
   location: Utrecht
   tagline: DESIGNHOTEL IN CENTRUM
   image: "/forestryio/images/3CourtHotel.jpg"
-  points: [Overnacht in de Oude Rechtbank, Geniet van de Italiaanse keuken, Fiets in en om Utrecht]
+  points:
+  - Overnacht in de Oude Rechtbank
+  - Geniet van de Italiaanse keuken
+  - Fiets in en om Utrecht
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=458&country=1&la=2&autoLogin=true&actie=
 - title: Hotel Merici
   location: Sittard
   tagline: BIJZONDERE OVERNACHTING
   image: "/forestryio/images/4Merici.jpg"
-  points: [Overnacht in een Klooster, Live cooking ontbijt, 20 min van Maastricht]
+  points:
+  - Overnacht in een Klooster
+  - Live cooking ontbijt
+  - 20 min van Maastricht
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=476&country=1&la=2&autoLogin=true&actie=
 - title: Hotel Wientjes
   location: Zwolle
   tagline: BIJZONDERE OVERNACHTING
   image: "/forestryio/images/5Wientjes.jpg"
-  points: [Overnacht in burgemeesterwoning, Geniet van een 3-gangendiner, Bezoek museum de Fundatie]
+  points:
+  - Overnacht in burgemeesterwoning
+  - Geniet van een 3-gangendiner
+  - Bezoek museum de Fundatie
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=361&country=1&la=2&autoLogin=true&actie=
 - title: Hotel Martin's Patershof
   location: Mechelen
   tagline: KERST OP Z'N BELGISCH
   image: "/forestryio/images/6MartinsPatershof.jpg"
-  points: [Overnacht in een kerk, Kamer met bubbelbad, 20 min van Brussel en Antwerpen]
+  points:
+  - Overnacht in een kerk
+  - Kamer met bubbelbad
+  - 20 min van Brussel en Antwerpen
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=365&country=4&la=2&autoLogin=true&actie=
